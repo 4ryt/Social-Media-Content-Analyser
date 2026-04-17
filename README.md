@@ -37,7 +37,6 @@ It provides:
 * Fetches data from social media APIs
 * Performs sentiment analysis
 
-👉 See implementation: 
 
 ---
 
@@ -49,7 +48,6 @@ It provides:
 * View combined insights
 * Sentiment distribution chart
 
-👉 See UI: 
 
 #### Platform-Specific Page
 
@@ -57,7 +55,6 @@ It provides:
 * Filter by caption/thread/date/status ID
 * Dynamic chart + sentiment filtering
 
-👉 See UI: 
 
 ---
 
